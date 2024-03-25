@@ -9,8 +9,6 @@ This folder hoses the files and info about my CNC machine which I have made 2 vi
 * Coming Soon!
 
 # Electronic Schematics
-<img src="img/wiring_1.jpg" width="100%" alt="Ben's CNC machine render">
-<img src="img/wiring_2.jpg" width="100%" alt="Ben's CNC machine render">
  
 # 3D Models
 * .f3z - Fusion360 file
