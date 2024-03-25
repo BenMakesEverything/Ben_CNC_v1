@@ -13,6 +13,7 @@ This folder hoses the files and info about my CNC machine which I have made 2 vi
 <img src="img/wiring_2.jpg" width="100%" alt="Ben's CNC machine render">
  
 # 3D Models
+* Check the main folder. If you want a different format or more info, feel free to comment on either video and I will try to add it here if I am able.
 * .f3z - Fusion360 file
 * .step
 * .obj
